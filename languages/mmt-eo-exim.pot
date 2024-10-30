@@ -1,0 +1,250 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MMT - ExIm - Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-04 03:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: includes/admin/pages/page-eventbrite-settings.php:66
+msgid "All other EventON repeat type will be exported as Eventbrite series."
+msgstr ""
+
+#: includes/admin/class-export-eventbrite.php:46
+msgid "Already exported ot Eventbrite!"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-display.php:18
+msgid "Display"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:37
+msgid "e.g. : "
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-display.php:31
+msgid "Enable Eventbrite Widget"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:76
+msgid "End Date"
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:93
+msgid "Event already in list."
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:92
+#: includes/admin/class-admin-ajax.php:161
+msgid "Event fetched successfully."
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:25
+#: includes/admin/pages/page-eventbrite-import.php:31
+msgid "Event ID"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:70
+msgid "Event Name"
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:199
+msgid "Event(s) imported successfully."
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-settings.php:41
+msgid "Eventbrite Export Settings"
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:67
+msgid "Eventbrite private token not found."
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-settings.php:25
+msgid "Eventbrite Private Token:"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-settings.php:20
+msgid "Eventbrite Settings"
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:27
+msgid "EventON Import"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Export / import events to / from Eventbrite. Display Eventbrite events with "
+"shortcodes and widget."
+msgstr ""
+
+#: includes/admin/class-export-eventbrite.php:24
+msgid "Export Event"
+msgstr ""
+
+#: includes/admin/class-export-eventbrite.php:62
+msgid "Export to EventBrite."
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:50
+msgid "Fetch Event(s)"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:97
+msgid "Fetch More Event(s)"
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:162
+msgid "Fetched 1 event successfully."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.momothemes.com/"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:13
+msgid "Import"
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:188
+msgid "Import Error (No Token)."
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:207
+msgid "Import Error."
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:92
+msgid "Import Event(s)"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:21
+msgid "Import Event(s) by "
+msgstr ""
+
+#. Name of the plugin
+msgid "MMT - ExIm - Lite"
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:17
+msgid "MMT - ExIm Lite"
+msgstr ""
+
+#: includes/class-mmt-eventbrite-widget.php:15
+msgid "MMT Eventbrite Widget"
+msgstr ""
+
+#. Author of the plugin
+msgid "MoMo Themes"
+msgstr ""
+
+#: includes/class-mmt-eventbrite-widget.php:117
+msgid "No Events"
+msgstr ""
+
+#: includes/class-mmt-eventbrite-widget.php:144
+msgid "No. of events:"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-settings.php:32
+#, php-format
+msgid ""
+"Note: For private token, Log in to your Eventbrite account and visit your <a "
+"href=\"%s\">API Keys page</a>."
+msgstr ""
+
+#: includes/class-mmt-eventbrite-widget.php:160
+msgid "Open event in new window"
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:45
+#: includes/admin/class-admin-ajax.php:231
+msgid "Options saved successfully"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-settings.php:46
+msgid ""
+"Please save your Private token before selecting organization. Organization "
+"dropdown will only be populated after you save your private token."
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-settings.php:86
+msgid ""
+"Please select your timezone city before exporting your event. Only future "
+"events will be exported to eventbrite."
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:111
+msgid "Provided event does not exist."
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-settings.php:93
+msgid "Save Settings"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-display.php:52
+msgid "Save Widget Settings"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-settings.php:72
+msgid "Select default currency while exporting event"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-settings.php:52
+msgid "Select organization list"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-display.php:38
+msgid "Select organization list to display events"
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:26
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:73
+msgid "Start Date"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:82
+msgid "Status"
+msgstr ""
+
+#: includes/admin/pages/page-eventbrite-import.php:79
+msgid "Summary"
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:81
+msgid "The private token you provided was invalid."
+msgstr ""
+
+#: includes/class-mmt-eventbrite-widget.php:46
+#: includes/class-mmt-eventbrite-widget.php:135
+msgid "Upcoming Events"
+msgstr ""
+
+#: includes/admin/admin-settings-page.php:28
+msgid "Widget"
+msgstr ""
+
+#: includes/class-mmt-eventbrite-widget.php:140
+msgid "Widget Title:"
+msgstr ""
+
+#: includes/class-mmt-eventbrite-widget.php:20
+msgid "Widget to display Eventbrite upcoming events"
+msgstr ""
+
+#: includes/admin/class-admin-ajax.php:121
+msgid "You do not have permission to access the resource you requested."
+msgstr ""
